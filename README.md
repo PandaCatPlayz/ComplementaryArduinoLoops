@@ -1,2 +1,2 @@
 # ComplementaryArduinoLoops
-Add more loops too arduino!
+Add more loops to arduino!
